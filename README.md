@@ -1,7 +1,6 @@
 # Online-bookstore
 
 A Sample Application built using Angular SPA hosted in ASP.NET Core working with NoSQL via MongoDB.
-# What does this solution offer?
 
 # Features
 
